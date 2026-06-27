@@ -20,6 +20,8 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+Scripts/
+share/
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -74,3 +76,4 @@ venv.bak/
 temp/
 tmp/
 .python-version
+*.cfg
